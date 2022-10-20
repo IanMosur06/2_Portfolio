@@ -2,7 +2,7 @@
 This is the second challenge for the bootcamp, creating a personal portfolio.
 
 ## Description
-This is my person portfolio that displays my information as well as links to som eof the work tht I have done.
+This is my person portfolio that displays my information as well as links to some of the work that I have done. Using technology onvolving HTML, CSS, Javascript, and API's.
 
 ## User Story
 
@@ -32,6 +32,6 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
-![portfolio](./assets/images/Final.PNG)
+![portfolio](./Assets/Images/Snippet.PNG)
 
-![portfolio demo](./assets/images/02-advanced-css-homework-demo.gif)
+![portfolio demo](./Assets/Images/02-advanced-css-homework-demo.gif)
