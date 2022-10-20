@@ -2,7 +2,7 @@
 This is the second challenge for the bootcamp, creating a personal portfolio.
 
 ## Description
-This is my person portfolio that displays my information as well as links to some of the work that I have done. Using technology onvolving HTML, CSS, Javascript, and API's.
+This is my person portfolio that displays my information as well as links to some of the work that I have done. Using technology involving HTML, CSS, Javascript, and API's.
 
 ## User Story
 
